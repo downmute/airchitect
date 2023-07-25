@@ -24,4 +24,6 @@ The model will output a result according to what you submitted at the bottom of 
 If you have already trained a model before, clicking 'Load Model' will load the latest model you have trained
 The inference now uses the latest, loaded model
 
+Inspired by and used parts of the code of micrograd: https://github.com/karpathy/micrograd
+
 
